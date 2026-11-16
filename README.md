@@ -8,7 +8,7 @@ The right one is not always a person. Sometimes it is the people who can hold yo
 
 | No. | Work | Year | |
 |---|---|---|---|
-| 1 | [Held Commitment](01-held-commitment/) | 2026 | [reel](https://www.instagram.com/reel/DfyaDHJRoZd/) · [interactive page](https://mystflo.com/products/art-with-ai-agents/held-commitment) on mystflo.com (coming soon) |
+| 1 | [Held Commitment](01-held-commitment/) | 2026 | [reel](https://www.instagram.com/reel/DfyaDHJRoZd/) · [interactive page](https://mystflo.com/products/art-with-ai-agents/held-commitment) on mystflo.com |
 
 ![Held Commitment, the final still](01-held-commitment/images/cover.jpg)
 
