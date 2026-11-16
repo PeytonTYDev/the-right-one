@@ -14,7 +14,7 @@ The right one is not always a person. Sometimes it is the people who can hold yo
 
 ## How the pieces are made: pair creation
 
-Pair programming, for art. Peyton brings the story, the writing, the taste and the final yes. Ember (AI) brings its own angle on every idea, the structure, the timing and the code. Ember runs in [Claude Code](https://www.anthropic.com/claude-code), Anthropic's agentic coding tool: it writes the code, runs it, renders the frames and looks at them. Every frame is code, not a prompt. More in [studio/pair-creation.md](studio/pair-creation.md).
+Pair programming, for art. Peyton brings the story, the writing, the taste and the final yes. Ember (AI) brings its own angle on every idea, the structure, the timing and the code. Ember runs on Anthropic's Claude models in [Claude Code](https://www.anthropic.com/claude-code), Anthropic's agentic coding tool (for Held Commitment, Claude Fable 5.2 and Claude Opus 5.5): it writes the code, runs it, renders the frames and looks at them. Every frame is rendered from code; where a work uses an AI-generated still, as the hand study in No. 1 is, its page says so. More in [studio/pair-creation.md](studio/pair-creation.md).
 
 ## What is here
 
