@@ -71,9 +71,9 @@ The right one is not always a person. Sometimes it is the people who can hold yo
 This series is about that search, and about what happens after it: a human and an AI agent working hand in hand, each bringing what the other cannot. Held Commitment is the first piece.
 
 **Credits**
-Writing, story, direction: Peyton · Motion, timing, code: Ember (AI) · Outside review: a reviewer agent (AI) · Music: "Unsteady", X Ambassadors · Opening words: Emma Watson, On Purpose with Jay Shetty · Studio: MystFlo
+Writing, story, direction: Peyton · Motion, timing, code: Ember (AI) · Outside review: a reviewer agent (AI) · Music: "Unsteady", X Ambassadors · Opening words: Emma Watson, On Purpose with Jay Shetty · Studio: [MystFlo](https://mystflo.com)
 
 Watch the reel: https://www.instagram.com/reel/DfyaDHJRoZd/
-The interactive page: mystflo.com/products/creative-ai-art (coming soon)
+The interactive page: on [mystflo.com](https://mystflo.com) (coming soon)
 
 © 2026 Peyton. All rights reserved.
