@@ -2,7 +2,7 @@
 
 A series of motion artworks by **Peyton + Ember (AI)**. Each begins as a piece of Peyton's writing and becomes generative particle flow, timed to music, ending on one signed still.
 
-The right one is not always a person. Sometimes it is the people who can hold your commitment. Sometimes it is the right tool, the right system, the right agent, built for the way you work. The series is about that search, and about a human and an AI working hand in hand.
+The right one is not always a person. Sometimes it is the people who can hold your commitment. Sometimes it is the right tool, the right system, the right agent, built for the way you work. The series is about that search, and about a human and an AI agent working hand in hand.
 
 | No. | Work | Year | |
 |---|---|---|---|

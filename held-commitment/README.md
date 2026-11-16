@@ -1,6 +1,6 @@
 # The making of Held Commitment
 
-*How I made a piece of motion art in pair creation with an AI, from one line of writing to a signed still.*
+*How I made a piece of motion art in pair creation with an AI agent, from one line of writing to a signed still.*
 
 [Watch the reel on Instagram](https://www.instagram.com/reel/DfyaDHJRoZd/) · [The score](score.md)
 
@@ -19,7 +19,7 @@ A white stream climbs toward a small point high in the dark: a dream. Another cl
 
 ## Pair creation
 
-In pair programming two people share one keyboard. One drives, one navigates, both think. I made this piece the same way, with an AI.
+In pair programming two people share one keyboard. One drives, one navigates, both think. I made this piece the same way, with an AI agent.
 
 I bring the story, the writing, the taste and the final yes. Ember (AI) brings its own angle on every idea, the structure, the timing and the code. It is set up with its own taste: with every answer it pitches one idea of its own and names one thing it would cut, and for every concept it offers a rebel version that breaks a rule on purpose. It disagrees once, then builds my choice.
 
@@ -68,7 +68,7 @@ Six versions over three days. Each one exists because the one before it was turn
 
 The right one is not always a person. Sometimes it is the people who can hold your commitment. Sometimes it is the right tool, the right system, the right agent, built for the way you work.
 
-This series is about that search, and about what happens after it: a human and an AI working hand in hand, each bringing what the other cannot. Held Commitment is the first piece.
+This series is about that search, and about what happens after it: a human and an AI agent working hand in hand, each bringing what the other cannot. Held Commitment is the first piece.
 
 **Credits**
 Writing, story, direction: Peyton · Motion, timing, code: Ember (AI) · Outside review: a reviewer agent (AI) · Music: "Unsteady", X Ambassadors · Opening words: Emma Watson, On Purpose with Jay Shetty · Studio: MystFlo

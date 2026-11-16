@@ -1,6 +1,6 @@
 # Pair creation
 
-Pair programming is two people at one keyboard: one drives, one navigates, both think. The Right One is made the same way, by a human and an AI.
+Pair programming is two people at one keyboard: one drives, one navigates, both think. The Right One is made the same way, by a human and an AI agent.
 
 | | Peyton | Ember (AI) |
 |---|---|---|
