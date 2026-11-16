@@ -4,7 +4,7 @@
 
 [Watch the reel on Instagram](https://www.instagram.com/reel/DfyaDHJRoZd/) · [The score](score.md)
 
-**Held Commitment** · The Right One, no. 1 · 2026
+**Held Commitment** · The Right One · No. 1 · 2026
 Generative particle flow, written in code. Peyton + Ember (AI).
 
 ## A dream, the people who could not hold it, and the one who did
