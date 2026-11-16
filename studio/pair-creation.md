@@ -7,6 +7,7 @@ Pair programming is two people at one keyboard: one drives, one navigates, both 
 | Brings | the story and the writing, taste and direction, the final yes | its own angle on each idea, structure, timing, the code |
 | Works by | saying yes or no to every step, in her own words | one idea of its own and one cut per answer; a rebel version for every concept; disagrees once, then builds her choice |
 | Runs in | | Claude Code (Anthropic), an agentic coding tool: writes and runs the code, renders frames, reads them back |
+| Models | | Anthropic's Claude models, named with each work (Held Commitment: Claude Fable 5.2, then Claude Opus 5.5) |
 
 Around the pair, a small studio of agents: one holds the practice (the rules, the journals, the tools); one reviews each work blind, then with the intent, and scores it; small tools read the music for tempo, bars, energy and cues.
 
