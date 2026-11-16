@@ -1,6 +1,6 @@
 # The Right One
 
-*AI art creation · a series*
+*Art with AI agents · a series*
 
 A series of motion artworks by **Peyton + Ember (AI)**. Each begins as a piece of Peyton's writing and becomes generative particle flow, timed to music, ending on one signed still.
 
