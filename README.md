@@ -6,7 +6,7 @@ The right one is not always a person. Sometimes it is the people who can hold yo
 
 | No. | Work | Year | |
 |---|---|---|---|
-| 1 | [Held Commitment](held-commitment/) | 2026 | [reel](https://www.instagram.com/reel/DfyaDHJRoZd/) |
+| 1 | [Held Commitment](held-commitment/) | 2026 | [reel](https://www.instagram.com/reel/DfyaDHJRoZd/) · interactive page on mystflo.com (coming soon) |
 
 ![Held Commitment, the final still](held-commitment/images/cover.jpg)
 
@@ -19,11 +19,10 @@ Pair programming, for art. Peyton brings the story, the writing, the taste and t
 ```
 held-commitment/   the making-of, the score, the specs, images
 studio/            how the pair works: roles, the twelve steps
-docs/              the interactive making-of page
 ```
 
 This is a showcase. The source code of the works stays private; the method is shared here.
 
 ## Rights
 
-© 2026 Peyton. All rights reserved. The works, the writing, the images and the code excerpts in this repository are not licensed for reuse, reproduction or training. See [NOTICE.md](NOTICE.md).
+© 2026 Peyton. All rights reserved. The works, the writing and the images in this repository are not licensed for reuse, reproduction or training. See [NOTICE.md](NOTICE.md).

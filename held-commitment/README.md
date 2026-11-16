@@ -2,7 +2,7 @@
 
 *How I made a piece of motion art in pair creation with an AI, from one line of writing to a signed still.*
 
-[Watch the reel on Instagram](https://www.instagram.com/reel/DfyaDHJRoZd/) · [Interactive page](../docs/index.html) · [The score](score.md)
+[Watch the reel on Instagram](https://www.instagram.com/reel/DfyaDHJRoZd/) · [The score](score.md)
 
 **Held Commitment** · The Right One, no. 1 · 2026
 Generative particle flow, written in code. Peyton + Ember (AI).
@@ -74,6 +74,6 @@ This series is about that search, and about what happens after it: a human and a
 Writing, story, direction: Peyton · Motion, timing, code: Ember (AI) · Outside review: a reviewer agent (AI) · Music: "Unsteady", X Ambassadors · Opening words: Emma Watson, On Purpose with Jay Shetty · Studio: MystFlo
 
 Watch the reel: https://www.instagram.com/reel/DfyaDHJRoZd/
-The interactive page: [docs/index.html](../docs/index.html)
+The interactive page: mystflo.com/products/creative-ai-art (coming soon)
 
 © 2026 Peyton. All rights reserved.
