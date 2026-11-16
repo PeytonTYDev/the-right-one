@@ -74,6 +74,6 @@ This series is about that search, and about what happens after it: a human and a
 Writing, story, direction: Peyton · Motion, timing, code: Ember (AI) · Outside review: a reviewer agent (AI) · Music: "Unsteady", X Ambassadors · Opening words: Emma Watson, On Purpose with Jay Shetty · Studio: [MystFlo](https://mystflo.com)
 
 Watch the reel: https://www.instagram.com/reel/DfyaDHJRoZd/
-The interactive page: on [mystflo.com](https://mystflo.com) (coming soon)
+The interactive page: [mystflo.com/products/art-with-ai-agents/held-commitment](https://mystflo.com/products/art-with-ai-agents/held-commitment) (coming soon)
 
 © 2026 Peyton. All rights reserved.
